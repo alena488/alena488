@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**alena488/alena488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Junior UX/UI Designer & Frontend Developer. I love the process of building digital products from the first wireframe to the final line of code.
 
-Here are some ideas to get you started:
+I have a solid grasp of Figma for creating user-centered designs and a strong technical foundation in Frontend development. My goal is to create interfaces that are not only visually appealing but also functional and easy to implement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently starting my professional journey, focusing on building high-quality projects and constantly expanding my skill set. I’m ready to bring fresh ideas and a dedicated approach to a creative team.
+
+My Toolkit:
+
+Design: UI/UX Design, Figma, Prototyping, Tilda
+
+Development: HTML, CSS, JavaScript, SQL basics
+
+Core: Java, Git, SOLID principles
