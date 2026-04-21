@@ -10,6 +10,4 @@ My Toolkit:
 
 Design: UI/UX Design, Figma, Prototyping, Tilda
 
-Development: HTML, CSS, JavaScript, SQL basics
-
-Core: Java, Git, SOLID principles
+Development: HTML, CSS, JavaScript
